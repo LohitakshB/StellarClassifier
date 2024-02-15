@@ -1,1 +1,1 @@
-Hi! Welcome to my first github repository. In this project I applied three different machine learning model to classifiy star into the Morgan-Keenan system. I gathered the B-V index of 1000 stars and found there temperature in kelvins using Ballestro's Formula and Python. I hope you enjoy my project!
+
